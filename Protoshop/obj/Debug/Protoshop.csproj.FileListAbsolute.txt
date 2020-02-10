@@ -1,0 +1,10 @@
+D:\!Protoshop\Protoshop\bin\Debug\Protoshop.exe.config
+D:\!Protoshop\Protoshop\bin\Debug\Protoshop.exe
+D:\!Protoshop\Protoshop\bin\Debug\Protoshop.pdb
+D:\!Protoshop\Protoshop\obj\Debug\Protoshop.csprojAssemblyReference.cache
+D:\!Protoshop\Protoshop\obj\Debug\Protoshop.Form1.resources
+D:\!Protoshop\Protoshop\obj\Debug\Protoshop.Properties.Resources.resources
+D:\!Protoshop\Protoshop\obj\Debug\Protoshop.csproj.GenerateResource.cache
+D:\!Protoshop\Protoshop\obj\Debug\Protoshop.csproj.CoreCompileInputs.cache
+D:\!Protoshop\Protoshop\obj\Debug\Protoshop.exe
+D:\!Protoshop\Protoshop\obj\Debug\Protoshop.pdb
